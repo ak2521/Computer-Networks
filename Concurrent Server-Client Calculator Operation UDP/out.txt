@@ -1,0 +1,93 @@
+==============================
+enter the port number:2020
+==============================
+
+binding successful
+child process created
+going inside process
+==============================
+Wait for input 1:
+binding successful
+child process created
+going inside process
+==============================
+Wait for input 1:
+
+one=200
+==============================
+Wait for input 2:
+
+one=100
+==============================
+Wait for input 2:
+two=100
+==============================
+Wait for operator
+==============================
+two=/
+==============================
+Wait for operator
+==============================
+
+answer=2
+==============================
+Enter the Port Number: 
+2020
+==============================
+Socket Created 
+==============================
+Enter the Number 1: 200
+==============================
+Disconnected...
+(base) ajaykumar@Ajays-MacBook-Pro eka % ./a.out
+==============================
+Enter the Port Number: 
+2020
+==============================
+Socket Created 
+==============================
+Enter the Number 1: 100
+==============================
+Disconnected...
+(base) ajaykumar@Ajays-MacBook-Pro eka % ./a.out
+==============================
+Enter the Port Number: 
+2020
+==============================
+Socket Created 
+==============================
+Enter the Number 1: 100
+==============================
+Disconnected...
+==============================
+santhosh  % ./a.out
+==============================
+Enter the Port Number: 
+2020
+==============================
+Socket Created Successfully
+==============================
+Enter the Operator
+(+) -> ADD==== (-) -> SUB==== (*) -> MUL==== (/) -> DIV
+
+ ENTER YOUR CHOICE: 
+ /
+==============================
+^C
+santhosh % ./a.out
+==============================
+Enter the Port Number: 
+2020
+==============================
+Socket Created Successfully
+==============================
+Enter the Operator
+(+) -> ADD==== (-) -> SUB==== (*) -> MUL==== (/) -> DIV
+
+ ENTER YOUR CHOICE: 
+ /
+==============================
+The result is 2
+==============================
+Disconnected...
+
